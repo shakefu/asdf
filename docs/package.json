@@ -10,5 +10,8 @@
     "@types/node": "^20.8.10",
     "prettier": "^3.0.3",
     "vitepress": "^1.0.0-rc.24"
+  },
+  "overrides": {
+    "vite": "^6.4.5"
   }
 }
